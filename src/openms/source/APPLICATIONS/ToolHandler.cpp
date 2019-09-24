@@ -195,6 +195,7 @@ namespace OpenMS
     util_map["DecoyDatabase"] = Internal::ToolDescription("DecoyDatabase", util_category);
     util_map["DatabaseFilter"]= Internal::ToolDescription("DatabaseFilter", util_category);
     util_map["DeMeanderize"] = Internal::ToolDescription("DeMeanderize", util_category);
+    util_map["DereplicatorAdapter"] = Internal::ToolDescription("DereplicatorAdapter", util_category);
     util_map["Digestor"] = Internal::ToolDescription("Digestor", util_category);
     util_map["DigestorMotif"] = Internal::ToolDescription("DigestorMotif", util_category);
     util_map["Epifany"] = Internal::ToolDescription("Epifany", util_category);

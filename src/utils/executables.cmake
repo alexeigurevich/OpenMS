@@ -11,6 +11,7 @@ CVInspector
 DatabaseFilter
 DecoyDatabase
 DeMeanderize
+DereplicatorAdapter
 Digestor
 DigestorMotif
 Epifany
